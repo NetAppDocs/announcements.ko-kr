@@ -1,0 +1,72 @@
+---
+settings:
+  name: Announcements
+  rss_page: index.html
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ko-kr,us-en,ja-jp,zh-cn
+sidebar:
+  entries:
+  - title: 환영합니다!
+    url: "/index.html"
+  - title: 2021년
+    entries:
+    - title: Astra Trident를 위한 문서
+      url: "/astra-trident.html"
+    - title: Astra Control Center에 대한 문서
+      url: "/astra_control_center.html"
+    - title: 기본 분기를 본인으로 이름 변경
+      url: "/default-branch-rename.html"
+  - title: 2020년
+    entries:
+    - title: NetApp HCI 문서 업데이트
+      url: "/hci-update.html"
+    - title: PDF 다운로드
+      url: "/pdfs.html"
+    - title: 향상된 사용자 환경
+      url: "/look-and-feel.html"
+    - title: ONTAP 시스템 관리자용 문서
+      url: "/ontap-system-manager.html"
+    - title: 클라우드 규정 준수를 위한 문서
+      url: "/cloud-compliance.html"
+    - title: ONTAP Select용 문서
+      url: "/ontap-select.html"
+  - title: 2019년
+    entries:
+    - title: NetApp HCI 클라우드 서비스 및 솔루션 관련 문서
+      url: "/hci.html"
+    - title: 스타일 가이드 및 구문 참조
+      url: "/style-and-syntax.html"
+    - title: SaaS Backup for Salesforce에 대한 문서
+      url: "/salesforce.html"
+    - title: Active IQ용 문서
+      url: "/active-iq.html"
+    - title: 새로운 페이지에 RSS 피드를 제공합니다
+      url: "/rss.html"
+    - title: Cloud Tiering에 대한 문서
+      url: "/cloud-tiering.html"
+    - title: 기고자를 위한 GitHub 아바타
+      url: "/avatars.html"
+  - title: 2018년
+    entries:
+    - title: 구문 강조 표시
+      url: "/syntax.html"
+    - title: 페이지 레벨 탐색
+      url: "/navigation.html"
+    - title: Converged Systems Advisor용 문서
+      url: "/converged-systems-advisor.html"
+    - title: 문서 변경을 요청하는 새로운 방법
+      url: "/request-doc-changes.html"
+    - title: Cloud Insights용 문서
+      url: "/cloud-insights.html"
+    - title: Cloud Volumes ONTAP용 문서
+      url: "/cloud-volumes-ontap.html"
+    - title: Cloud Volumes Service for AWS에 대한 문서
+      url: "/cloud-volumes-service.html"
+    - title: SaaS Backup for Office 365 문서
+      url: "/office365.html"
+    - title: GitHub에서 NetApp 문서 소개
+      url: "/introduction.html"

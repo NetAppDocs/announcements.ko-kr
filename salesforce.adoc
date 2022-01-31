@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: salesforce.html 
+keywords: announcements, documentation, salesforce, saas backup for salesforce 
+summary: '새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Salesforce에 대한 문서는 에서 제공됩니다 https://docs.netapp.com[].' 
+last_modified: 04-Jun-2019 
+---
+= NetApp SaaS Backup for Salesforce의 문서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Salesforce에 대한 문서는 에서 제공됩니다 https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp SaaS Backup은 Salesforce 데이터를 Amazon S3 스토리지에 백업하는 안전한 클라우드 네이티브 서비스입니다. SaaS Backup은 위협 또는 실수로 인한 삭제로부터 데이터를 보호합니다.
+
+로 이동합니다 https://docs.netapp.com/us-en/salesforce/["NetApp SaaS Backup for Salesforce 문서"^] 을 참조하십시오.
+
+image:salesforce.gif[""]

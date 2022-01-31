@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="c89c5cd70f32a26ff845a27e3bedf342" category="summary">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Office 365에 대한 문서는 에서 제공됩니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="f99682d5106b8f6376000b302724aaf4" category="doc">NetApp SaaS Backup for Office 365의 문서</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="692681554fa8fd3449c7299b20170009" category="paragraph">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Office 365에 대한 문서는 에서 제공됩니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="53af803bffa7f24980c4a26f63154396" category="paragraph">NetApp SaaS Backup은 Microsoft Office 365 데이터를 Amazon S3 스토리지, Microsoft Azure Blob 스토리지 또는 StorageGRID Webscale 오브젝트 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다.</block>
+  <block id="0237411d804ba48104d618038a005a16" category="inline-link">NetApp SaaS Backup for Office 365 문서</block>
+  <block id="d063e730c1cd393851bdcddd47c6a32c" category="paragraph">로 이동합니다<block ref="89aa0d274c3077d7640c3c6450ece73b" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="780dddb5c0d19186b6d43b2527f34dc1" category="summary">이제 문서의 각 페이지에는 페이지에 기여한 사람들의 GitHub 아바타가 포함됩니다. 이러한 변경은 NetApp Docs 커뮤니티 중심이라는 목표를 지원합니다.</block>
+  <block id="d34fd20c27f77dcf17ccc607334738c5" category="doc">콘텐츠 기고자를 위한 GitHub 아바타</block>
+  <block id="ef98abaa338a36d07c1350b364c8bfee" category="paragraph">풀 요청을 생성하여 소스 콘텐츠를 변경한 모든 사람의 GitHub 아바타를 볼 수 있습니다. 기여자는 고객, NetApp 파트너 또는 직원이 될 수 있습니다. 예를 들면 다음과 같습니다.</block>
+  <block id="c69bb86131e52f76221ffee2cae52cb9" category="paragraph"><block ref="c69bb86131e52f76221ffee2cae52cb9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eae8dde81953aaa19bfa5f8d57a7abec" category="paragraph">전문가든 초심이든 콘텐츠에 대한 변경 사항을 제출하면 여러분의 기여에 대해 악명이 될 것입니다.</block>
+  <block id="6e7df42f97b0cd6ecba29faec584550f" category="paragraph">문서의 패스를 볼 때마다 NetApp 작성자의 얼굴을 압도하지 않을 정도로 아바타가 작습니다.[&amp;#128521;]</block>
+  <block id="584cd3a08ba716abaa71859ee4023e37" category="summary">docs.netapp.com 에서 GitHub 기반 문서에 대한 사용자 경험을 향상했다는 소식을 알려드립니다. 이러한 변화는 NetApp 온라인 콘텐츠 전반에서 더욱 일관된 경험을 제공합니다.</block>
+  <block id="1a5143bbde5a332ba63e43fb6f6adb93" category="doc">향상된 사용자 환경</block>
+  <block id="f067aed48d152712839b17f2e943de83" category="paragraph">GitHub 기반 문서에 대한 사용자 경험을 향상했다는 소식을 알려드립니다<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block>. 이러한 변화는 NetApp 온라인 콘텐츠 전반에서 더욱 일관된 경험을 제공합니다.</block>
+  <block id="31bd5ffbed535a9ad92dfd564b8ff05c" category="section-title">레이아웃 및 스타일</block>
+  <block id="bbcdcf5d47357b33df71fd5d58d48870" category="paragraph">이제 문서의 레이아웃과 스타일은 netapp.com 에서 찾을 수 있는 것과 매우 비슷합니다. 여기에는 글꼴 및 색, 왼쪽 및 오른쪽 탐색 레이아웃, 머리글 및 바닥글이 포함됩니다.</block>
+  <block id="cf9334cd99a89b490ffa44f86462e733" category="paragraph"><block ref="cf9334cd99a89b490ffa44f86462e733" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1229499240644bcf841f10a176bcd6" category="section-title">빵가루</block>
+  <block id="488c1604476862b77fe053c7bf7b6c5c" category="paragraph">NetApp 문서 간 이동을 더 쉽게 수행할 수 있도록 빵가루를 추가했습니다. 예를 들어 * Documentation * 을 클릭하여 docs.netapp.com 으로 돌아갈 수 있습니다.</block>
+  <block id="b483cae019f93373053707d21a4caea7" category="paragraph"><block ref="b483cae019f93373053707d21a4caea7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57298c3120d668e00ef2b29738832952" category="section-title">기고할 링크</block>
+  <block id="105cb06c1bb1ca199df198a2ad98f866" category="paragraph">콘텐츠 기고할 수 있는 링크가 페이지 수준 탐색 위에 통합되었습니다. 이러한 링크는 콘텐츠를 스크롤할 때 항상 표시됩니다. 따라서 페이지의 어느 곳에서나 문제를 발견할 경우 버튼을 클릭하여 변경 사항을 직접 제출하거나 피드백을 제공할 수 있습니다.</block>
+  <block id="ef1344af1891770b6ba7e34326b207bf" category="paragraph"><block ref="ef1344af1891770b6ba7e34326b207bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5dbdc6054859d79d7c19444a994441fe" category="summary">문서의 변경 내용을 요청하고 소스 콘텐츠를 직접 편집하지 않고 싶은 경우 문서 변경 요청 을 클릭하여 피드백을 제공할 수 있습니다.</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="doc">문서 변경 요청</block>
+  <block id="e3c0cf211075637a24931ecc16eab2da" category="paragraph">문서의 변경 내용을 요청하고 소스 콘텐츠를 직접 편집하지 않고 싶은 경우 * 문서 변경 요청 * 을 클릭하여 피드백을 제공할 수 있습니다.</block>
+  <block id="d9466ff730e0feb26a154ecb639a35e3" category="paragraph">이 새 버튼은 각 페이지 상단에 나타납니다.</block>
+  <block id="32a073aab0022a640d6931b3112d874d" category="paragraph"><block ref="32a073aab0022a640d6931b3112d874d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0db13ffa9ada0395f16f1863f6d002fc" category="paragraph">문서 변경 요청 * 을 클릭하면 GitHub 계정을 만들거나 로그인하라는 메시지가 표시됩니다(계정을 무료로 쉽게 만들 수 있음).</block>
+  <block id="d805b5bfc4c9ba3aaaea66a81087fc42" category="paragraph">로그인하면 새 GitHub 문제를 생성할 양식이 나타납니다. 텍스트 상자는 페이지의 제목과 URL로 미리 채워집니다. 이 정보는 삭제하지 마십시오. 문제를 발견한 페이지를 확인하는 데 도움이 됩니다.</block>
+  <block id="23ddca3dd72398443586add55c501d4c" category="paragraph"><block ref="23ddca3dd72398443586add55c501d4c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="paragraph">텍스트 상자에 세부 정보를 입력한 다음 * 새 문제 제출 * 을 클릭하여 요청에 대한 문제를 만듭니다.</block>
+  <block id="5c63259eb2557499deae26eab465ebcc" category="paragraph">귀하의 피드백을 검토한 후 피드백을 받아 보겠습니다.</block>
+  <block id="a8fd82e5e9c6bb55948e04fd6db97539" category="summary">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Salesforce에 대한 문서는 에서 제공됩니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="128764058687673e348baaa3c18f23a4" category="doc">NetApp SaaS Backup for Salesforce의 문서</block>
+  <block id="27b3d50bf4a11ca6040fb6e597f7ff41" category="paragraph">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Salesforce에 대한 문서는 에서 제공됩니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="d031155e704c9f3172521b5694dcd795" category="paragraph">NetApp SaaS Backup은 Salesforce 데이터를 Amazon S3 스토리지에 백업하는 안전한 클라우드 네이티브 서비스입니다. SaaS Backup은 위협 또는 실수로 인한 삭제로부터 데이터를 보호합니다.</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="inline-link">NetApp SaaS Backup for Salesforce 문서</block>
+  <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">로 이동합니다<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e24c5b58e2d9896cb97f9c2b3319aba5" category="summary">GitHub에 호스팅된 NetApp Docs의 스타일 및 구문을 다루기 위해 Contributor의 가이드를 업데이트했습니다.</block>
+  <block id="88dee452ae0859a30045db56c941e7a0" category="doc">스타일 가이드 및 구문 참조</block>
+  <block id="e5ae3e8cef11a090cc3acaa905030eca" category="inline-link">기고자 가이드</block>
+  <block id="926b60e1a6c51073fbbc63f83d98d4fc" category="paragraph">을(를) 업데이트했습니다<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block> GitHub에 저장된 NetApp Docs의 스타일 및 구문을 다룹니다.</block>
+  <block id="8e1e340c21a62417919b757c373d41dc" category="paragraph"><block ref="8e1e340c21a62417919b757c373d41dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="62031e5204e801a849a91204c9d6aa95" category="paragraph">몇 가지 이유로 GitHub에 일부 콘텐츠를 저장하기 시작했습니다. 한 가지 중요한 이유는 커뮤니티의 기여를 활성화하는 것이었습니다. 고객, 파트너, NetApp 직원 여러분의 의견을 통해 NetApp 문서가 더 좋습니다.</block>
+  <block id="2fda5e49e611c72a25c5331ceac4b342" category="paragraph">피드백을 제공하는 한 가지 방법은 GitHub에 저장된 소스 콘텐츠를 편집하는 것입니다.</block>
+  <block id="2076081b3709235f99d2bf1e586bd408" category="paragraph"><block ref="2076081b3709235f99d2bf1e586bd408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7c254e29c6a4c50c012d4dc15595011" category="paragraph">콘텐츠 업데이트 제출을 지원하기 위해 다음을 추가했습니다<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block>:</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="list-text">NetApp 문서의 스타일 가이드</block>
+  <block id="2ba2bed86469c810fc6b6d899717fec1" category="list-text">이 간략한 가이드를 읽고 NetApp 문서의 스타일을 이해합니다. 대화 및 공감하기는 하지만, 요점에 대해 설명합니다.</block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="list-text">AsciiiDoc 참조</block>
+  <block id="284ecb4c0849131653777dab0472c4ef" category="list-text">이 참조를 따라 Markdown과 유사한 경량 마크업 언어인 AsciiiDoc 구문을 학습합니다.</block>
+  <block id="86af32105323ac0935a0f85e2aeeb711" category="paragraph">이러한 리소스가 유용하고 NetApp 제품 설명서에 도움이 되기를 바랍니다. 소스 콘텐츠를 직접 편집하지 않고 싶은 경우에도 * 문서 변경 요청 * 을 클릭하여 피드백을 제공할 수 있습니다. 여러분의 피드백을 검토한 후 그 피드백을 받아 보겠습니다.</block>
+  <block id="0962bcdca78ea05e7fbf19a898a97dfe" category="paragraph">행복한 기여!</block>
+  <block id="f850d546548119c76f210ab460b080c6" category="summary">NetApp은 Astra Control Center에 대한 제품 설명서를 발표하게 되어 기쁘게 생각합니다.</block>
+  <block id="7f91881a4e5ca9171020102c29c19f58" category="doc">Astra Control Center에 대한 문서</block>
+  <block id="f38fccfd815a280859dfd15d161865c3" category="paragraph">이 문서에서는 Astra Control Service, Astra Control Automation 및 Astra Trident를 포함하는 Astra 제품군에 대한 컨텐츠 지원을 확장합니다. Astra Control Center를 사용하면 사내 애플리케이션 인식 및 Kubernetes를 데이터 관리할 수 있으며, Kubernetes를 신규 또는 기존 사내 ONTAP 시스템에 연결할 수 있습니다.</block>
+  <block id="7339a613d4c674913deb90b3b3362fed" category="inline-link">Astra Control Center 소개</block>
+  <block id="a87da1b8e8afc29470ac85cf788e125c" category="inline-link">Astra Control Center를 빠르게 시작합니다</block>
+  <block id="c3c02050d805dbc9ceac219fbb898972" category="paragraph">Astra Control Center 설명서 사이트에서는 을 포함하여 Astra Control Center를 빠르게 시작하는 데 도움이 되는 항목을 제공합니다<block ref="a95d2afae8745420ff43aacb977c87ea" category="inline-link-rx"></block> 그리고 A<block ref="85d3fc4f1d9c9c8b3625a5fe4a456b0d" category="inline-link-rx"></block>또한 Astra Control Center를 사용하여 Kubernetes 클러스터, 애플리케이션, 스토리지 백엔드 등을 관리하는 방법에 대한 정보도 제공됩니다.</block>
+  <block id="025b7e6e5bda835f17fe8cb4f83b500d" category="paragraph">Astra 제품군에 대한 문서는 다음 사이트에서 확인할 수 있습니다.</block>
+  <block id="3a4b2c66d4bdac6ce0e3340c71a39eda" category="inline-link">Astra Control Center 문서</block>
+  <block id="ea643bf7aaf130341a17f697a7009368" category="list-text"><block ref="ea643bf7aaf130341a17f697a7009368" category="inline-link-rx"></block></block>
+  <block id="ef22ff17624b3faeed227ce5c717eb5f" category="inline-link">Astra Control Service 문서</block>
+  <block id="6762180adf48075df77efbf264e982ec" category="list-text"><block ref="6762180adf48075df77efbf264e982ec" category="inline-link-rx"></block></block>
+  <block id="ae62facd357433ca5e68bd73bbc985e8" category="inline-link">Astra Control 자동화 문서</block>
+  <block id="6c0842d7964e2eb41e0d803e2ccc4cc2" category="list-text"><block ref="6c0842d7964e2eb41e0d803e2ccc4cc2" category="inline-link-rx"></block></block>
+  <block id="14d9b10c6196045941347a9e85704b50" category="inline-link">Astra Trident 문서</block>
+  <block id="27ad5f18f21813695f06091d7d929c12" category="list-text"><block ref="27ad5f18f21813695f06091d7d929c12" category="inline-link-rx"></block></block>
+  <block id="5fc5283f6ec17de5dc3a8219d59951d5" category="paragraph">NetApp은 콘텐츠에 대한 피드백을 감사하며 제품 문서의 모든 페이지에서 제공되는 "문서 변경 요청" 기능을 이용하도록 권장합니다. 또한 문서 플랫폼은 GitHub 사용자를 위한 임베디드 콘텐츠 기여 기능을 제공합니다.</block>
+  <block id="46fd8823cd0c333029a4f02468f6a048" category="inline-link">NetApp Astra Control Center 문서</block>
+  <block id="e4d32a80a3a045bb2cb0ccae0bd727ad" category="paragraph">이 문서를 살펴보고 이 문서에 기고하십시오. 편집, 변경 요청 또는 피드백 전송 등의 작업을 수행할 수 있습니다. 로 이동합니다<block ref="8e3a361e6788a8a4f34c9bb6c9d6b3ec" category="inline-link-rx"></block> 복사하는 이유에 대해 살펴보는 것입니다.</block>
+  <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">docs.netapp.com 에 있는 Astra Control Center 문서 사이트를 보여 주는 스크린샷.</block>
+  <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73d58b632dfae1d33e39c28c1d5ddd1a" category="summary">NetApp HCI 클라우드 서비스 및 솔루션 문서는 현재 이용 가능합니다.</block>
+  <block id="36317b19455648745096575e2574f10b" category="doc">NetApp HCI용 문서</block>
+  <block id="9fd220153734575a48bb738a083f5aaf" category="paragraph">NetApp HCI에서 클라우드 서비스를 지원하고 NetApp HCI 솔루션 카탈로그에 액세스하기 위한 문서가 추가되었습니다.</block>
+  <block id="cde6f89ae8cc04677a4695632fa9b67f" category="inline-link">NetApp HCI 클라우드 서비스 및 솔루션</block>
+  <block id="2bde1a8d8db69aa0dee1f98e01e72346" category="paragraph">로 이동합니다<block ref="61b1a239d4e5189a8d59d81af4ca9e1e" category="inline-link-rx"></block> NetApp HCI에서 클라우드 서비스를 시작하는 방법과 NetApp HCI에서 솔루션을 사용하는 방법에 대해 알아보십시오.</block>
+  <block id="9aec5175c3af133ad3547b84d767e6de" category="paragraph">클라우드 서비스 정보는 NetApp HCI 하이브리드 클라우드 제어를 사용하여 클라우드 서비스를 활성화하는 방법, 클러스터를 생성하고 NetApp Kubernetes Service를 사용하여 애플리케이션을 빠르게 구축하는 방법, NetApp Fabric Orchestrator를 사용하여 NetApp HCI에서 Cloud Volumes를 생성하는 방법을 설명합니다. Fabric Orchestrator는 중앙 집중식 스토리지 및 데이터 관리 제어 플레인에서 스토리지 자산 및 데이터 자산을 언제 어디서나 검색 및 관리할 수 있습니다.</block>
+  <block id="a123afb0a5e473d260a319e6afe8f936" category="inline-image-macro">NetApp HCI 클라우드 서비스 문서</block>
+  <block id="1fdfe244ff4d1182c2de92ba8cba2a4b" category="paragraph"><block ref="1fdfe244ff4d1182c2de92ba8cba2a4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38accc9f8c554b6f186652a6a450c0fd" category="paragraph">또한 NetApp HCI 솔루션 카탈로그를 추가했습니다. 이 카탈로그는 프라이빗 클라우드를 배포하고 운영하는 데 필요한 정보를 고객에게 제공하여 온프레미스 및 외부에서 다양한 사용 사례를 지원합니다. NetApp HCI 솔루션은 DevOps, 최종 사용자 컴퓨팅, 엔터프라이즈 애플리케이션, 인공 지능, 데이터 보호 및 Data Fabric 관리와 같은 기술 영역에서 퍼블릭, 프라이빗, 하이브리드 및 멀티 클라우드 전반에 부가 가치 기능을 제공합니다.</block>
+  <block id="aad773c64100f77a8f265003d71729f6" category="inline-image-macro">NetApp HCI 솔루션 카탈로그</block>
+  <block id="53bb917009114360f67dfe77bf7b5cc1" category="paragraph"><block ref="53bb917009114360f67dfe77bf7b5cc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a21351cef909121f2a9b6debcfed246" category="summary">GitHub에서 모든 NetApp 기술 문서 저장소의 기본 분기 이름을 master에서 main으로 변경했습니다. 이 변경 사항은 기술 문서에서 비포용적인 언어를 제거하기 위한 지속적인 노력의 일환입니다.</block>
+  <block id="2e4729496d2bbed6bff0232599f76326" category="doc">기본 분기를 "main"으로 이름 변경</block>
+  <block id="d3b7c913cd04ebfec0e9ec32cb6fd58c" category="inline-link">GitHub를 참조하십시오</block>
+  <block id="25efe773c4e9de42eb91ab02141aff94" category="paragraph">의 모든 NetApp 기술 문서 저장소에 대한 기본 분기의 이름을 master에서 main으로 변경했습니다<block ref="71990f224cf870094b63b8dd2aea55d0" category="inline-link-rx"></block>. 이 변경 사항은 기술 문서에서 비포용적인 언어를 제거하기 위한 지속적인 노력의 일환입니다.</block>
+  <block id="ecad71bc237a38b4607e5135538231ee" category="paragraph"><block ref="ecad71bc237a38b4607e5135538231ee" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8ec744b2290e1d3a33b0ff978e8eaf06" category="summary">이제 여러 제목이 있는 각 페이지에 페이지 수준 탐색이 포함됩니다.</block>
+  <block id="027d87552794088159597f2321cfc386" category="doc">페이지 레벨 탐색</block>
+  <block id="d99210b4612e0b4ade2c333c4c2880b7" category="paragraph">이제 여러 섹션이 있는 각 페이지에 페이지 수준 탐색이 포함됩니다.</block>
+  <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">이 향상된 기능을 통해 스크롤할 때 현재 위치를 쉽게 확인하고 페이지의 특정 섹션으로 이동할 수 있습니다.</block>
+  <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp Docs 발표</block>
+  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018년 2월에 GitHub 기반 설명서를 시작했습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>보다 빠르게 콘텐츠를 얻고 커뮤니티 참여를 지원하는 것을 목표로 합니다. 지속적으로 새로운 콘텐츠를 추가하고 콘텐츠 경험을 개선하고 있습니다. 이 페이지에서 최신 변경 사항에 대해 알아보십시오.</block>
+  <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">최근 발표 내용은 다음과 같습니다.</block>
+  <block id="b2659ea7bd2dc02b176860f71e92c02d" category="inline-link-macro">Astra Trident를 위한 문서</block>
+  <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> (2021년 9월 9일)</block>
+  <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> (2021년 8월 5일)</block>
+  <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> (2021년 3월 5일)</block>
+  <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">HCI 문서 업데이트</block>
+  <block id="cd366322ff81f4650796a83a5cfb317f" category="list-text"><block ref="734da8f95796052311327721f0c6b1ce" category="inline-link-macro-rx"></block> (2020년 5월 29일)</block>
+  <block id="bbb76505e315b9dd1f97ba9cb0022054" category="inline-link-macro">PDF 다운로드</block>
+  <block id="a1622d0a07d6f6b9a8e538aada0593dd" category="list-text"><block ref="39b5be9799c0610a32f935e5d1141695" category="inline-link-macro-rx"></block> (2020년 4월 28일)</block>
+  <block id="6dfa38e97fe16150c4ca6689c6d3a881" category="list-text"><block ref="fcd05649c33944b070e8a09a7085bc92" category="inline-link-macro-rx"></block> (2020년 3월 17일)</block>
+  <block id="ac4fe0f8f82391e062ef9b8420631194" category="inline-link-macro">ONTAP 시스템 관리자용 문서</block>
+  <block id="f2c46dc66240138596000a911fc329dc" category="list-text"><block ref="98eb39d84bcd9d653ee2d5119e96969a" category="inline-link-macro-rx"></block> (2020년 1월 23일)</block>
+  <block id="ab4385c6ca35951b4efd0c2871095944" category="inline-link-macro">클라우드 규정 준수를 위한 문서</block>
+  <block id="022fd1890be2f8ba7b5bfc8d526e1e35" category="list-text"><block ref="4746811d90ba44b4592b64974c6ec5db" category="inline-link-macro-rx"></block> (2020년 1월 22일)</block>
+  <block id="bb3dde2aa0cf6fd38af6d0f43b2a1619" category="inline-link-macro">ONTAP Select용 문서</block>
+  <block id="de30ff0f7799bed8eaaffc3aa67c5f68" category="list-text"><block ref="63b2dfcd546a008996cc1a93eb83b957" category="inline-link-macro-rx"></block> (2020년 1월 22일)</block>
+  <block id="833e732ee0444267bc1da174548ba78a" category="inline-link-macro">NetApp HCI 클라우드 서비스 및 솔루션 관련 문서</block>
+  <block id="273139a524e7ad006693d5672eb1fc67" category="list-text"><block ref="db7f04ef74afc79fc47f0b23f0640d8f" category="inline-link-macro-rx"></block> (2019년 11월 22일)</block>
+  <block id="abec09ebabb20833adcb20f5e75b9a70" category="list-text"><block ref="22c0178ce857453e48ff3794fa4dfd93" category="inline-link-macro-rx"></block> (2019년 10월 24일)</block>
+  <block id="bdfcc723b96e5627c5dd7669de58ce64" category="summary">Converged Systems Advisor 문서는 에서 확인할 수 있습니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="cb773a80fe34f37583813b5d6bbf54e7" category="doc">Converged Systems Advisor용 문서</block>
+  <block id="9cb6bb5e9ff16479c39d0bcf8f913663" category="paragraph">Converged Systems Advisor 문서는 에서 확인할 수 있습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="7a49965d9cfff28dae6c97f9b420a932" category="paragraph">NetApp Converged Systems Advisor는 FlexPod 통합 인프라 구현을 검증, 모니터링 및 최적화하여 비즈니스 애플리케이션에 최고의 성능과 가용성을 보장합니다.</block>
+  <block id="e9b2694df761ec3149dc627f508ad225" category="inline-link">Converged Systems Advisor 문서</block>
+  <block id="c345c0285df3270d26e03091c3ce0902" category="paragraph">로 이동합니다<block ref="85d1a394d8d07c1de98158553304dd41" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="6ef1daab3112a138119ab68a54297214" category="paragraph"><block ref="6ef1daab3112a138119ab68a54297214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d4c2619be7bff9d7e1cabee8c8ca76a9" category="summary">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. Cloud Volumes Service for AWS에 대한 문서는 에서 확인할 수 있습니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="5e2bff150b9b10db5641b203d743226f" category="doc">Cloud Volumes Service for AWS에 대한 문서</block>
+  <block id="42b7b123029134ca57803f12fa93b504" category="paragraph">새로운 NetApp 서비스를 위한 문서가 추가되었습니다. Cloud Volumes Service for AWS에 대한 문서는 에서 확인할 수 있습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="cffa933a10458e8374fbef2e21507c9d" category="paragraph">NetApp Cloud Volumes Service for AWS는 NFS 및 SMB에서 All-Flash 성능을 통해 NAS 볼륨을 제공하는 클라우드 네이티브 파일 서비스입니다. 이 서비스를 사용하면 기존 애플리케이션을 포함한 모든 워크로드를 AWS 클라우드에서 실행할 수 있습니다.</block>
+  <block id="0f707acb7e2394436734d74b239bd7a4" category="inline-link">Cloud Volumes Service for AWS 설명서</block>
+  <block id="0d08fd30c4ea287e35a236c1ce0f50a3" category="paragraph">로 이동합니다<block ref="d214a539d749c7864af274ea2d9c8830" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="c3d2f664da493cc1d2eed39d199804b3" category="summary">2019년 말까지 Cloud Manager 문서에 클라우드 규정 준수 서비스의 콘텐츠를 추가했습니다.</block>
+  <block id="dd817f8b8470692ef67440abe8b9db70" category="paragraph">2019년 말 직전에 Cloud Manager의 클라우드 규정 준수 서비스 설명서에 콘텐츠를 추가했습니다.</block>
+  <block id="c6527133a9a1d75014c953711e81902d" category="paragraph">클라우드 규정 준수 는 AWS 및 Azure의 Cloud Volumes ONTAP를 위한 데이터 개인 정보 보호 및 규정 준수 서비스입니다. 클라우드 규정 준수 는 인공 지능(AI) 중심 기술을 사용하여 조직의 데이터 컨텍스트를 이해하고 Cloud Volumes ONTAP 시스템 전체에서 중요한 데이터를 식별할 수 있도록 지원합니다.</block>
+  <block id="4784fe79d9263a540b730e0503eb61b6" category="paragraph">Cloud Manager를 통해 클라우드 규정 준수를 운영 및 관리합니다. Cloud Manager의 * 규정 준수 * 탭에서 클라우드 규정 준수 기능에 액세스할 수 있습니다.</block>
+  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="inline-link">Cloud Manager 설명서</block>
+  <block id="0aefd0af975c621b20d1d95f7e5bc455" category="paragraph">로 이동합니다<block ref="66669ae9fe144d67be852fbb8a9637b7" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="32c1167790191e2571d7b60db822fb75" category="inline-image-macro">Cloud Manager 문서의 클라우드 규정 준수 콘텐츠 스크린샷</block>
+  <block id="0a86bd8d14317490dc24f9732292c565" category="paragraph"><block ref="26d34e6669f802b514bbe8a76eba996a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="9dda9c5cdd8115b872f0ef35be3fcdd5" category="summary">ONTAP 9.7이 GA될 예정이므로 ONTAP System Manager를 위해 새롭게 설계된 콘텐츠를 docs.netapp.com 에 추가하였습니다.</block>
+  <block id="25b7b300a479a551c3d57923603926e8" category="paragraph">ONTAP 9.7부터 완전히 재설계된 ONTAP System Manager는 직관적인 그래픽 사용자 인터페이스를 통해 ONTAP 관리를 단순화합니다. 새로운 대시보드에서 주요 클러스터 상태와 성능을 한 화면에 확인할 수 있습니다.</block>
+  <block id="0158860f13c021906b67d200c7689058" category="paragraph">ONTAP System Manager에 대한 설명서도 완전히 새롭게 디자인되었습니다. 탐색하기 쉬운 콘텐츠는 빠르고 사용하기 쉽습니다. 주요 관리 작업에 대한 간략한 개요를 제공하는 내장 비디오를 시청하십시오.</block>
+  <block id="e8726682a54ea85f2123db66fd54ec79" category="inline-link">ONTAP 시스템 관리자 설명서</block>
+  <block id="7cce11cd1cef1f48e143e578d0a9e9ba" category="paragraph">로 이동합니다<block ref="3a5e4656d39a4651c31e49e8beb7805d" category="inline-link-rx"></block> 시작하십시오.</block>
+  <block id="7c21f38d01aad6cad1d0f32633893bed" category="paragraph"><block ref="500e4723e9fa4087959db6af3e0c371a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="40aa38e48fe3025b432fc9c6a94ab755" category="summary">NetApp의 첫 번째 GitHub 기반 문서 사이트 clouddocs.netapp.com—which 출시를 발표하게 되어 기쁘게 생각합니다. 현재 Cloud Manager 및 Cloud Sync용 설명서는 호스팅되고 있습니다.</block>
+  <block id="4731c959d36b32dd74134e1ed0b99b5a" category="doc">GitHub의 NetApp Docs 소개</block>
+  <block id="07e8aa1a0c3839dc4b101b0ce1bb688e" category="paragraph">설명서는 AsciiiiDoc(Markdown과 유사한 경량 형식)로 작성되어 GitHub 저장소에 저장되고 에서 HTML 콘텐츠로 제공됩니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="7efbb7e06719718f77e4c61c1df3ef2c" category="paragraph">이 새로운 문서 환경은 다음과 같은 몇 가지 주요 이점을 제공합니다.</block>
+  <block id="ba24c1c2eed9743b34852d4d56fafb6f" category="list-text">빠른 콘텐츠 업데이트</block>
+  <block id="d82ec879ebd0f625cde5edcd5f0465e7" category="paragraph">NetApp은 클라우드 및 오픈 소스 리소스를 활용하여 제품 출시 주기를 단축합니다.</block>
+  <block id="ba9cb4c86128c400ab65fb7eca598e2d" category="list-text">커뮤니티 기여</block>
+  <block id="c875224f829e6299b37bced748c147d7" category="paragraph">NetApp은 인라인 편집 및 개선을 권장할 수 있는 기능을 제공함으로써 NetApp 작성자와 고객 간의 거리를 줄였습니다.</block>
+  <block id="1ca59b86cbef98a8be3dbcecdbbfeda5" category="list-text">반응형 디자인</block>
+  <block id="b89f5008d8de8f5c78118ec3b9792b65" category="paragraph">이 사이트에서는 NetApp 문서에 액세스하는 데 사용하는 모든 장치에 응답 속도가 빠른 레이아웃을 제공합니다.</block>
+  <block id="714a2e829fbe98dc44280f88e6c37ca0" category="paragraph">당사는 사이트를 지속적으로 개선하고 시간이 지남에 따라 콘텐츠를 추가할 계획입니다. 이 모든 것을 마음에 드셨기를 바라며 여러분의 의견을 언제든지 환영합니다.</block>
+  <block id="705b9db16ffe253f6dbe6223378c2176" category="summary">강조 표시를 추가하여 가장 인기 있는 언어의 구문을 보다 쉽게 볼 수 있도록 했습니다.</block>
+  <block id="b1438fa6c9e31db5034f6307a11fe0fa" category="doc">구문 강조 표시</block>
+  <block id="2c6fbc3258a5f85566bcf97c08506130" category="paragraph">예를 들어, NetApp Cloud Central에서 사용자 토큰을 얻기 위한 구문은 다음과 같습니다.</block>
+  <block id="ca8bdf3ba678bd46df596707720379c3" category="paragraph">이와 같이 구문을 클립보드에 쉽게 복사할 수 있도록 복사 버튼을 추가했습니다.</block>
+  <block id="996711c9b03859e62bd6cab82ba827d1" category="paragraph">JSON 출력을 보여주는 또 다른 예는 다음과 같습니다.</block>
+  <block id="e177a21fa6914d742af2e7f0ae7cfb1c" category="paragraph">이 향상된 기능이 도움이 되기를 바랍니다!</block>
+  <block id="4749b60d80ac603c59d60d492218a4d4" category="summary">NetApp의 새로운 Cloud Insights 서비스 관련 문서는 docs.netapp.com 에서 확인할 수 있습니다.</block>
+  <block id="e8947ead1bdab019f82cf3b6ff399971" category="doc">Cloud Insights용 문서</block>
+  <block id="2d4906ecd3e840e50a951925c4d89134" category="paragraph">NetApp의 새로운 Cloud Insights 서비스에 대한 문서는 에서 확인할 수 있습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="b6569b5a5429e43ea4e566ae989fd3e6" category="paragraph">NetApp Cloud Insights는 전체 인프라에 대한 가시성을 제공하는 클라우드 인프라 모니터링 툴입니다. Cloud Insights를 사용하면 퍼블릭 클라우드 및 프라이빗 데이터 센터를 비롯한 모든 리소스에 대한 모니터링, 문제 해결 및 최적화 등이 가능합니다.</block>
+  <block id="5858ee4031acd7b896faa2d3d2c1a299" category="inline-link">Cloud Insights 설명서</block>
+  <block id="995ff0c46344da03464527cbcfcbebb1" category="paragraph">로 이동합니다<block ref="58c5925e5196942f30b30cb2d55d4ec2" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="d9ece361cbf81c60c155b885f24690f7" category="summary">Cloud Volumes ONTAP 릴리스 정보는 에서 확인할 수 있습니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="9cde8b250928656ce8678c8ec126aa0e" category="doc">Cloud Volumes ONTAP용 문서</block>
+  <block id="de3fb31a8be0599075aba4868ba330b5" category="paragraph">Cloud Volumes ONTAP 릴리스 정보는 에서 확인할 수 있습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="b2aa7f46133e37b27f37944e347ae13a" category="paragraph">Cloud Volumes ONTAP는 NAS 및 SAN 프로토콜(NFS, SMB, iSCSI), 재해 복구(DR), 백업 및 아카이브를 제공하는 파일 공유 및 블록 레벨 스토리지 등 다양한 활용 사례에 맞게 데이터 제어와 엔터프라이즈급 스토리지 기능을 결합합니다. DevOps, 데이터베이스(SQL, Oracle, NoSQL) 또는 기타 엔터프라이즈 워크로드와</block>
+  <block id="1a523ba4ece9125275b92ebb41e3cf23" category="inline-link">Cloud Volumes ONTAP 설명서</block>
+  <block id="510cd2b19ca2a93141480c35102e1f8f" category="paragraph">로 이동합니다<block ref="7bcb7b21b5400d7217e9db9c2b1b4ef7" category="inline-link-rx"></block> 릴리스 정보를 검토합니다. Cloud Volumes ONTAP 배포 및 관리 방법을 설명하는 문서가 필요한 경우 을 참조하십시오<block ref="9f7c33b1b6d8fcf4507c738fba5155d5" category="inline-link-rx"></block>.</block>
+  <block id="f0fcc16ab49b209290308ac6fa936d99" category="summary">NetApp은 Astra Trident에 제품 설명서를 제공함을 발표하게 되어 기쁘게 생각합니다.</block>
+  <block id="8e957984d6e4a01fc1a87e256d382796" category="paragraph">NetApp은 Astra Trident AT의 제품 문서 가용성을 발표하게 되어 기쁘게 생각합니다<block ref="315379460c8d673ec8ed412b286951a4" category="inline-link-rx"></block>.</block>
+  <block id="b890af956381210db22f43bb6ed50a31" category="paragraph">Astra Trident는 CSI(Container Storage Interface)를 준수하는 동적 스토리지 오케스트레이터로서, 널리 사용되는 모든 NetApp 스토리지 플랫폼에서 스토리지 리소스를 사용하고 관리할 수 있도록 지원합니다.</block>
+  <block id="260a438318a45336bc25b495b2410333" category="inline-link">Astra Trident 소개</block>
+  <block id="42f8643eb52a942747937327c72c8361" category="inline-link">구축 개요</block>
+  <block id="130d3a2c99344d7ddbdff3c14116e726" category="paragraph"><block ref="483e1d24e3d650accbb97eb1ede403e4" category="inline-link-rx"></block> 을 포함하여 Astra Trident를 빠르게 시작하는 데 도움이 되는 항목을 제공합니다<block ref="3c82646c2b0d168946721808a42b105e" category="inline-link-rx"></block> 그리고 A<block ref="fef7daa7054cfc5895c4f8480c2569c8" category="inline-link-rx"></block>Astra Trident 업그레이드에 대한 정보와 함께 탐색하기 쉬운 형식으로 제공됩니다.</block>
+  <block id="35b46e301702b6fcb16192f9f4cf4533" category="inline-link">Astra 제어 서비스</block>
+  <block id="87081decba56eb52090a814e26495724" category="inline-link">Astra Control 자동화</block>
+  <block id="9c634046a90a62883b122e76b9afcef2" category="inline-link">Astra 제어 센터</block>
+  <block id="69de00b79b32c269763eb6a322ceff1e" category="paragraph">이 문서에서는 다음을 포함하는 Astra 제품군에 대한 컨텐츠 지원을 확장합니다<block ref="a60edd0f49d13d6bb9b2af16b2cbbdd5" category="inline-link-rx"></block>,<block ref="2f06701930d5d1d785905eefbc482f24" category="inline-link-rx"></block>, 및<block ref="6653b3fa72bfc9c83d8e5fede6da40f0" category="inline-link-rx"></block>.</block>
+  <block id="41e9974be0689901f5d5b1ac60055273" category="inline-image-macro">docs.netapp.com 에 있는 Astra Trident 문서 사이트를 보여 주는 스크린샷</block>
+  <block id="32afb2c13dc7c44f051b5e8fdddd25ac" category="paragraph"><block ref="32afb2c13dc7c44f051b5e8fdddd25ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f6c27fd7b4e8b1709f99ae0dac55b543" category="section-title">기여하고 싶으십니까?</block>
+  <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">NetApp Astra Trident 문서</block>
+  <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">이 문서를 살펴보고 이 문서에 기고하십시오. 편집, 변경 요청 또는 피드백 전송 등의 작업을 수행할 수 있습니다. 로 이동합니다<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 복사하는 이유에 대해 살펴보는 것입니다.</block>
+  <block id="803bd26955836f9634f10ba8af48614f" category="summary">귀하의 의견을 듣고 HTML 문서에서 바로 PDF를 다운로드할 수 있는 기능을 추가했습니다. 따라서 이동 중에도 간편하게 콘텐츠를 이용할 수 있습니다.</block>
+  <block id="7df391c285d7e6c78e86d5a5d8e85dfc" category="paragraph">PDF는 여러 가지 방법으로 다운로드할 수 있습니다.</block>
+  <block id="5e96e0c965637e8d0d23689cd0a46cd8" category="paragraph">첫 번째 방법은 현재 보고 있는 페이지의 PDF를 다운로드하는 것입니다.</block>
+  <block id="821a5ebb1d51d03da65c0dea068a08f3" category="inline-image-macro">페이지 맨 위에 표시되는 이 항목의 PDF 다운로드 옵션의 스크린샷</block>
+  <block id="4c5481577310f0287a454a3cc7910d93" category="paragraph"><block ref="4c5481577310f0287a454a3cc7910d93" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="acfa8c54da0a1579d3178a4319523caf" category="paragraph">왼쪽의 목차 위에 더 많은 옵션이 있습니다. PDF 다운로드 * 를 클릭하면 전체 문서 사이트의 PDF, 전체 섹션(섹션에 여러 페이지가 있는 경우) 또는 현재 보고 있는 페이지의 PDF를 생성하는 옵션이 표시됩니다.</block>
+  <block id="0d31ed50fefdac3efe21b5296f6c66fd" category="inline-image-macro">목차 위에 나타나는 PDF 다운로드 옵션의 스크린샷</block>
+  <block id="404b24c932f447075943208512d66e57" category="paragraph"><block ref="404b24c932f447075943208512d66e57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a70913baf52c93bdadc18f8174f4bde" category="paragraph">이 기능을 계속 사용할 것이므로 "PDF 다운로드"를 현재 베타 기능으로 고려해 보십시오. HTML 페이지를 가리키는 PDF 내의 링크와 같은 몇 가지 알려진 문제가 있습니다.</block>
+  <block id="0f026a26434684b72316596393024ebd" category="paragraph">PDF 제목 페이지 하단에 날짜 메시지가 표시되었습니까? 지속적으로 콘텐츠를 업데이트하고 개선하므로 이 PDF를 짧은 간격으로 사용할 계획을 세워야 합니다. 예를 들어, 비행 중이거나 인터넷을 사용할 수 없는 안전한 장소로 이동하는 경우 유용합니다. 같은 PDF를 나중에 참조해서는 안 됩니다. 최신 버전이 아닌 것 같습니다. 최신 콘텐츠를 다운로드하십시오.</block>
+  <block id="46d9aeeb3e6be5318a575af8352534c9" category="summary">NetApp Active IQ 관련 문서는 에서 확인할 수 있습니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="b8aad932978a2978b376b7a6897e0390" category="doc">NetApp Active IQ에 대한 문서</block>
+  <block id="331658451af5c246947672f876cc30ae" category="paragraph">NetApp Active IQ 관련 문서는 에서 확인할 수 있습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="d81ef71405d0d4b4daee2a3423013bbb" category="paragraph">NetApp Active IQ 인텔리전스 엔진은 예측 분석과 능동적 지원을 제공하여 NetApp 하이브리드 클라우드 전반에서 운영을 최적화하는 클라우드 기반 서비스입니다.</block>
+  <block id="838806ac97500ec8420a6b2811220c16" category="inline-link">Active IQ 설명서</block>
+  <block id="26340c92a14b94f57f49d510e904a60d" category="paragraph">로 이동합니다<block ref="df7b0f437c501ac5338884e339501425" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="591b9879d46f270469204bb1b54cb905" category="paragraph"><block ref="591b9879d46f270469204bb1b54cb905" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e29784e3d5c940145771b8ec1f0d2361" category="summary">NetApp의 새로운 Cloud Tiering 서비스에 대한 문서는 에서 제공됩니다<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="a23936500ee528b456b34733d186d6a2" category="doc">Cloud Tiering에 대한 문서</block>
+  <block id="92e80b6c1b180e7fecd04cd78e3a8237" category="paragraph">NetApp의 새로운 Cloud Tiering 서비스에 대한 문서는 에서 제공됩니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="a75a80ee13edb26298fa1c272d69a5b4" category="paragraph">NetApp FabricPool 기술을 기반으로 하는 Cloud Tiering은 ONTAP 클러스터에서 자주 사용되지 않는 데이터를 식별하고 해당 데이터를 클라우드의 저렴한 오브젝트 스토리지로 자동으로 원활하게 이동합니다.</block>
+  <block id="18b67cdd6c50872fa0de2de9dfd11343" category="inline-link">Cloud Tiering 설명서</block>
+  <block id="163d026b849195b6f6272437e6a79209" category="paragraph">로 이동합니다<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> 을 참조하십시오.</block>
+  <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="61979eb9db3f70d394e48b62f4ad0066" category="summary">NetApp HCI 1.8 릴리즈를 통해 docs.netapp.com 에서 NetApp HCI에 대한 추가 정보를 발표하게 되어 기쁘게 생각합니다.</block>
+  <block id="09d3cdfa12532557da8f388da94bb9dc" category="doc">NetApp HCI에 대한 문서 업데이트</block>
+  <block id="3ac61f5bf03fee02a7ddc42d3ea4781b" category="paragraph">이 업데이트에는 다음과 같은 새로운 항목이 포함되어 있습니다.</block>
+  <block id="606a51c60a9c4da8c6957f2168b65638" category="list-text">NetApp Element, NetApp Element 소프트웨어, 관리 서비스 및 vCenter Server용 NetApp HCI 플러그인에 대한 새로운 기능과 릴리즈 노트를 한 곳에서 수집하는 릴리즈 노트 섹션입니다</block>
+  <block id="d68a4bb73faabdd47991f68fc53d5c87" category="list-text">새로운 시작 설치 및 배포 개요</block>
+  <block id="3faaf4e0bd5f23a3b3706084a4d854e0" category="list-text">시스템 확장 및 모니터링과 관련된 추가 방법</block>
+  <block id="3bdbd3cae79b223b93743379b90c491c" category="list-text">클러스터 및 노드의 정의, 성능 관리를 위해 설정할 수 있는 서비스 품질 수준 설명 등 기본 개념에 대한 섹션입니다</block>
+  <block id="cc2b34920ded911cf771871876c49b69" category="list-text">관리 서비스, HealthTools, Element 소프트웨어 및 vCenter Server용 Element 플러그인을 업데이트하는 방법을 비롯하여 NetApp HCI를 전체 버전으로 업그레이드하는 방법을 중앙에서 확인할 수 있습니다</block>
+  <block id="a097e3c464424bd17a692aab63c4ca1c" category="inline-link">NetApp HCI 설명서</block>
+  <block id="9d50d0dc54845ab1bf1003ff0efd319d" category="paragraph">NetApp HCI에 대한 이 설명서를 보고 기고하십시오. 편집, 변경 요청 또는 피드백 전송 등의 작업을 수행할 수 있습니다. 로 이동합니다<block ref="6f1ab4c6ddf47e4328cf379fafe3b17d" category="inline-link-rx"></block> 복사하는 이유에 대해 살펴보는 것입니다.</block>
+  <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">docs.netapp.com HCI 문서 사이트를 보여 주는 스크린샷</block>
+  <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="45f90aa9fdda1e160068ad1d4c7e4668" category="summary">최근에 GitHub 저작 플랫폼에 ONTAP Select용 콘텐츠를 추가했습니다.</block>
+  <block id="2aaef326b401424ff55fdde68a0ce593" category="paragraph">최근 ONTAP Select에 대한 콘텐츠를 추가했습니다. 이 컨텐츠는 VMware ESXi에서 실행되는 ONTAP Select에 도움이 될 수 있으며 ONTAP Select Deploy REST API 사용에 대한 하이퍼바이저와 독립적인 설명서를 제공합니다.</block>
+  <block id="7f6004388e43ebb6b892401a47be0905" category="paragraph">콘텐츠 제작 팀은 여러 원본의 콘텐츠를 하나의 검색 가능한 온라인 라이브러리로 결합했기 때문에 이러한 변경 사항에 대해 매우 기쁘게 생각합니다.</block>
+  <block id="7436b418bed093768e360d32105591d2" category="inline-link">ONTAP Select 설명서</block>
+  <block id="4e5d48997630055674b3aae770fcd98d" category="paragraph">ONTAP Select에 대한 새로운 문서 환경을 살펴보고 이에 기여하십시오. 편집, 변경 요청 또는 피드백 전송 등의 작업을 수행할 수 있습니다. 로 이동합니다<block ref="45a93879d4bb7abd51fafccb0f35f591" category="inline-link-rx"></block> 시작하십시오.</block>
+  <block id="49d9378e00193fa4d854bd382df3826d" category="paragraph"><block ref="49d9378e00193fa4d854bd382df3826d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">문서의 각 "새 기능" 페이지에 RSS 단추가 추가되어 즐겨찾는 RSS 피드 리더에서 콘텐츠 업데이트를 받을 수 있습니다. 이러한 피드를 통해 NetApp 제품 및 서비스에 도입된 새로운 기능과 개선 사항을 최신 상태로 유지할 수 있습니다.</block>
+  <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">새로운 페이지에 RSS 피드를 제공합니다</block>
+  <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">Cloud Tiering 서비스</block>
+  <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">관심 있는 제품 또는 서비스에 대한 "새로운 기능" 페이지로 이동합니다. 예를 들면, 입니다<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>:</block>
+  <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d22d4e22b331006dc0f8853a7bda8e1f" category="paragraph">RSS 피드 판독기에 따라 페이지 URL을 복사하거나 * RSS 구독 * 을 클릭하여 피드 URL을 복사합니다. 판독기에서 URL을 검색하고 팔로우하기 시작합니다. 페이지가 업데이트될 때마다 피드에서 업데이트를 받아야 합니다.</block>
+  <block id="9a843f20677a52ca79af903123147af0" category="sidebar">환영합니다!</block>
+  <block id="05a5cf06982ba7892ed2a6d38fe832d6" category="sidebar">2021년</block>
+  <block id="1c7921a67f24b39dedf2b8594ce0a1a9" category="sidebar">기본 분기를 본인으로 이름 변경</block>
+  <block id="7b7a53e239400a13bd6be6c91c4f6c4e" category="sidebar">2020년</block>
+  <block id="bf55b1a83193261961e14a3aec8c15af" category="sidebar">NetApp HCI 문서 업데이트</block>
+  <block id="ea6b2efbdd4255a9f1b3bbc6399b58f4" category="sidebar">2019년</block>
+  <block id="6ffca96fa0c1e75da498221f958d9bfb" category="sidebar">SaaS Backup for Salesforce에 대한 문서</block>
+  <block id="5b3e65e6745f99101c082b7c5f8aa36e" category="sidebar">Active IQ용 문서</block>
+  <block id="481c7743539d1dafecedea9c7530b5ab" category="sidebar">새로운 페이지에 RSS 피드를 제공합니다</block>
+  <block id="571c738a85e0b49c979bfeb5bf13a8c4" category="sidebar">기고자를 위한 GitHub 아바타</block>
+  <block id="84ddfb34126fc3a48ee38d7044e87276" category="sidebar">2018년</block>
+  <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">문서 변경을 요청하는 새로운 방법</block>
+  <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">SaaS Backup for Office 365 문서</block>
+  <block id="e148fb94b2111f44240663465c676324" category="sidebar">GitHub에서 NetApp 문서 소개</block>
+</blocks>

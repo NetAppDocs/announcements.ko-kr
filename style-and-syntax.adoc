@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: style-and-syntax.html 
+keywords: announcements, style guide, syntax, asciidoc syntax, voice 
+summary: GitHub에 호스팅된 NetApp Docs의 스타일 및 구문을 다루기 위해 Contributor의 가이드를 업데이트했습니다. 
+last_modified: 24-Oct-2019 
+---
+= 스타일 가이드 및 구문 참조
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+을(를) 업데이트했습니다 http://docs.netapp.com/contribute/us-en/index.html["기고자 가이드"^] GitHub에 저장된 NetApp Docs의 스타일 및 구문을 다룹니다.
+
+image:style.gif[""]
+
+몇 가지 이유로 GitHub에 일부 콘텐츠를 저장하기 시작했습니다. 한 가지 중요한 이유는 커뮤니티의 기여를 활성화하는 것이었습니다. 고객, 파트너, NetApp 직원 여러분의 의견을 통해 NetApp 문서가 더 좋습니다.
+
+피드백을 제공하는 한 가지 방법은 GitHub에 저장된 소스 콘텐츠를 편집하는 것입니다.
+
+image:edit.gif[""]
+
+콘텐츠 업데이트 제출을 지원하기 위해 다음을 추가했습니다 http://docs.netapp.com/contribute/us-en/index.html["기고자 가이드"^]:
+
+NetApp 문서의 스타일 가이드:: 이 간략한 가이드를 읽고 NetApp 문서의 스타일을 이해합니다. 대화 및 공감하기는 하지만, 요점에 대해 설명합니다.
+AsciiiDoc 참조:: 이 참조를 따라 Markdown과 유사한 경량 마크업 언어인 AsciiiDoc 구문을 학습합니다.
+
+
+이러한 리소스가 유용하고 NetApp 제품 설명서에 도움이 되기를 바랍니다. 소스 콘텐츠를 직접 편집하지 않고 싶은 경우에도 * 문서 변경 요청 * 을 클릭하여 피드백을 제공할 수 있습니다. 여러분의 피드백을 검토한 후 그 피드백을 받아 보겠습니다.
+
+행복한 기여!

@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: 이제 여러 제목이 있는 각 페이지에 페이지 수준 탐색이 포함됩니다. 
+last_modified: 26-Nov-2018 
+---
+= 페이지 레벨 탐색
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이제 여러 섹션이 있는 각 페이지에 페이지 수준 탐색이 포함됩니다.
+
+이 향상된 기능을 통해 스크롤할 때 현재 위치를 쉽게 확인하고 페이지의 특정 섹션으로 이동할 수 있습니다.
+
+image:navigation.gif[""]

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: hci-update.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: NetApp HCI 1.8 릴리즈를 통해 docs.netapp.com 에서 NetApp HCI에 대한 추가 정보를 발표하게 되어 기쁘게 생각합니다. 
+last_modified: 29-May-2020 
+---
+= NetApp HCI에 대한 문서 업데이트
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp HCI 1.8 릴리즈를 통해 docs.netapp.com 에서 NetApp HCI에 대한 추가 정보를 발표하게 되어 기쁘게 생각합니다.
+
+이 업데이트에는 다음과 같은 새로운 항목이 포함되어 있습니다.
+
+* NetApp Element, NetApp Element 소프트웨어, 관리 서비스 및 vCenter Server용 NetApp HCI 플러그인에 대한 새로운 기능과 릴리즈 노트를 한 곳에서 수집하는 릴리즈 노트 섹션입니다
+* 새로운 시작 설치 및 배포 개요
+* 시스템 확장 및 모니터링과 관련된 추가 방법
+* 클러스터 및 노드의 정의, 성능 관리를 위해 설정할 수 있는 서비스 품질 수준 설명 등 기본 개념에 대한 섹션입니다
+* 관리 서비스, HealthTools, Element 소프트웨어 및 vCenter Server용 Element 플러그인을 업데이트하는 방법을 비롯하여 NetApp HCI를 전체 버전으로 업그레이드하는 방법을 중앙에서 확인할 수 있습니다
+
+
+NetApp HCI에 대한 이 설명서를 보고 기고하십시오. 편집, 변경 요청 또는 피드백 전송 등의 작업을 수행할 수 있습니다. 로 이동합니다 https://docs.netapp.com/us-en/hci/docs/index.html["NetApp HCI 설명서"^] 복사하는 이유에 대해 살펴보는 것입니다.
+
+image:hci-update.gif["docs.netapp.com HCI 문서 사이트를 보여 주는 스크린샷"]

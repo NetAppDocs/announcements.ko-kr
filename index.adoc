@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+---
+= NetApp Docs 발표
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: cloud sync, documentation, docs
+
+
+[role="lead"]
+2018년 2월에 GitHub 기반 설명서를 시작했습니다 https://docs.netapp.com["docs.netapp.com"^]보다 빠르게 콘텐츠를 얻고 커뮤니티 참여를 지원하는 것을 목표로 합니다. 지속적으로 새로운 콘텐츠를 추가하고 콘텐츠 경험을 개선하고 있습니다. 이 페이지에서 최신 변경 사항에 대해 알아보십시오.
+
+최근 발표 내용은 다음과 같습니다.
+
+* link:astra-trident.html["Astra Trident를 위한 문서"] (2021년 9월 9일)
+* link:astra_control_center.html["Astra Control Center에 대한 문서"] (2021년 8월 5일)
+* link:default-branch-rename.html["기본 분기를 "main"으로 이름 변경"] (2021년 3월 5일)
+* link:hci-update.html["HCI 문서 업데이트"] (2020년 5월 29일)
+* link:pdfs.html["PDF 다운로드"] (2020년 4월 28일)
+* link:look-and-feel.html["향상된 사용자 환경"] (2020년 3월 17일)
+* link:ontap-system-manager.html["ONTAP 시스템 관리자용 문서"] (2020년 1월 23일)
+* link:cloud-compliance.html["클라우드 규정 준수를 위한 문서"] (2020년 1월 22일)
+* link:ontap-select.html["ONTAP Select용 문서"] (2020년 1월 22일)
+* link:hci.html["NetApp HCI 클라우드 서비스 및 솔루션 관련 문서"] (2019년 11월 22일)
+* link:style-and-syntax.html["스타일 가이드 및 구문 참조"] (2019년 10월 24일)
+

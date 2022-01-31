@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: office365.html 
+keywords: announcements, documentation, office 365, backup, saas backup for office 365 
+summary: '새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Office 365에 대한 문서는 에서 제공됩니다 https://docs.netapp.com[].' 
+last_modified: 18-May-2018 
+---
+= NetApp SaaS Backup for Office 365의 문서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+새로운 NetApp 서비스를 위한 문서가 추가되었습니다. NetApp SaaS Backup for Office 365에 대한 문서는 에서 제공됩니다 https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp SaaS Backup은 Microsoft Office 365 데이터를 Amazon S3 스토리지, Microsoft Azure Blob 스토리지 또는 StorageGRID Webscale 오브젝트 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다.
+
+로 이동합니다 https://docs.netapp.com/us-en/saasbackupO365/["NetApp SaaS Backup for Office 365 문서"^] 을 참조하십시오.

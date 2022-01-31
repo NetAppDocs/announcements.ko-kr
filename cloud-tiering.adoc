@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: cloud-tiering.html 
+keywords: announcements, documentation, cloud tiering 
+summary: 'NetApp의 새로운 Cloud Tiering 서비스에 대한 문서는 에서 제공됩니다 https://docs.netapp.com[].' 
+last_modified: 03-Mar-2019 
+---
+= Cloud Tiering에 대한 문서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp의 새로운 Cloud Tiering 서비스에 대한 문서는 에서 제공됩니다 https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp FabricPool 기술을 기반으로 하는 Cloud Tiering은 ONTAP 클러스터에서 자주 사용되지 않는 데이터를 식별하고 해당 데이터를 클라우드의 저렴한 오브젝트 스토리지로 자동으로 원활하게 이동합니다.
+
+로 이동합니다 https://docs.netapp.com/us-en/cloud-tiering/["Cloud Tiering 설명서"^] 을 참조하십시오.
+
+image:cloud-tiering.gif[""]

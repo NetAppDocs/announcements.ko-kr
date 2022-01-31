@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: converged-systems-advisor.html 
+keywords: announcements, documentation, converged systems advisor, csa 
+summary: 'Converged Systems Advisor 문서는 에서 확인할 수 있습니다 https://docs.netapp.com[].' 
+last_modified: 12-Sep-2018 
+---
+= Converged Systems Advisor용 문서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Converged Systems Advisor 문서는 에서 확인할 수 있습니다 https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp Converged Systems Advisor는 FlexPod 통합 인프라 구현을 검증, 모니터링 및 최적화하여 비즈니스 애플리케이션에 최고의 성능과 가용성을 보장합니다.
+
+로 이동합니다 https://docs.netapp.com/us-en/converged-systems-advisor/["Converged Systems Advisor 문서"^] 을 참조하십시오.
+
+image:converged-systems-advisor.gif[""]

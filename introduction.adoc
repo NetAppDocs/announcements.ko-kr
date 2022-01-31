@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: introduction.html 
+keywords: announcements, avatars, github, contributors 
+summary: NetApp의 첫 번째 GitHub 기반 문서 사이트 clouddocs.netapp.com—which 출시를 발표하게 되어 기쁘게 생각합니다. 현재 Cloud Manager 및 Cloud Sync용 설명서는 호스팅되고 있습니다. 
+last_modified: 02-Feb-2018 
+---
+= GitHub의 NetApp Docs 소개
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp의 첫 번째 GitHub 기반 문서 사이트 clouddocs.netapp.com—which 출시를 발표하게 되어 기쁘게 생각합니다. 현재 Cloud Manager 및 Cloud Sync용 설명서는 호스팅되고 있습니다.
+
+설명서는 AsciiiiDoc(Markdown과 유사한 경량 형식)로 작성되어 GitHub 저장소에 저장되고 에서 HTML 콘텐츠로 제공됩니다 https://docs.netapp.com["docs.netapp.com"^].
+
+이 새로운 문서 환경은 다음과 같은 몇 가지 주요 이점을 제공합니다.
+
+* 빠른 콘텐츠 업데이트
++
+NetApp은 클라우드 및 오픈 소스 리소스를 활용하여 제품 출시 주기를 단축합니다.
+
+* 커뮤니티 기여
++
+NetApp은 인라인 편집 및 개선을 권장할 수 있는 기능을 제공함으로써 NetApp 작성자와 고객 간의 거리를 줄였습니다.
+
+* 반응형 디자인
++
+이 사이트에서는 NetApp 문서에 액세스하는 데 사용하는 모든 장치에 응답 속도가 빠른 레이아웃을 제공합니다.
+
+
+
+당사는 사이트를 지속적으로 개선하고 시간이 지남에 따라 콘텐츠를 추가할 계획입니다. 이 모든 것을 마음에 드셨기를 바라며 여러분의 의견을 언제든지 환영합니다.
