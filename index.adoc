@@ -4,6 +4,7 @@ permalink: index.html
 ---
 = NetApp Docs 발표
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

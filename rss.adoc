@@ -7,6 +7,7 @@ last_modified: 21-Mar-2019
 ---
 = 새로운 페이지에 RSS 피드를 제공합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

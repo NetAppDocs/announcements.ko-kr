@@ -7,6 +7,7 @@ last_modified: 02-Feb-2018
 ---
 = GitHub의 NetApp Docs 소개
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

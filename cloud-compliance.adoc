@@ -7,6 +7,7 @@ last_modified: 22-Jan-2020
 ---
 = 클라우드 규정 준수를 위한 문서
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
