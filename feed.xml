@@ -2,22 +2,22 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>announcements</title>
+    <title>announcements | NetApp Documentation</title>
     <atom:link href="https://docs.netapp.com/ko-kr/announcements/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://docs.netapp.com/ko-kr/announcements</link>
-    <description>The latest updates from NetApp Cloud Docs</description>
+    <description>The latest updates from NetApp Documentation</description>
     <language>ko-kr</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 31 Jan 2022 15:30:11 +0000</pubDate>
-    <lastBuildDate>Mon, 31 Jan 2022 15:30:11 +0000</lastBuildDate>
+    <pubDate>Tue, 03 May 2022 06:01:12 +0000</pubDate>
+    <lastBuildDate>Tue, 03 May 2022 06:01:12 +0000</lastBuildDate>
     
     
     
     <item>
-      <title>NetApp Docs 발표 (31 Jan 2022)</title>
-      <pubDate>Mon, 31 Jan 2022 15:28:13 +0000</pubDate>
-      <link>https://docs.netapp.com/ko-kr/announcements/index.html?time=1643642893</link>
-      <guid isPermaLink="false">Mon, 31 Jan 2022 15:28:13 +0000</guid>
+      <title>NetApp Docs 발표 (3 May 2022)</title>
+      <pubDate>Tue, 03 May 2022 05:58:53 +0000</pubDate>
+      <link>https://docs.netapp.com/ko-kr/announcements/index.html?time=1651557533</link>
+      <guid isPermaLink="false">Tue, 03 May 2022 05:58:53 +0000</guid>
       <description><![CDATA[  ]]></description>
     </item>
     
