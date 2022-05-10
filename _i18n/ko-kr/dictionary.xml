@@ -269,4 +269,12 @@
   <block id="156e6378a5fcd89f3957166fe15f0100" category="inline-image-macro">docs.netapp.com 에 있는 Astra Data Store 문서 사이트를 보여 주는 스크린샷.</block>
   <block id="96ded59f7edd6be28a9cc2e4c72e2154" category="paragraph"><block ref="96ded59f7edd6be28a9cc2e4c72e2154" category="inline-image-macro-rx" type="image"></block></block>
   <block id="df2d39488ab03675c8a9dc9281c24061" category="sidebar">Astra Data Store용 문서</block>
+  <block id="7a6b9de93f6a0ab11f2acb44f5ea9dcf" category="summary">NetApp은 Astra 제품군에 대한 제품 설명서를 발표하게 되어 기쁘게 생각합니다.</block>
+  <block id="37af41fc891e54c79978812ff233c3d8" category="doc">Astra 제품군의 문서</block>
+  <block id="2d63f74d9b059520b514097de3c8e2f5" category="inline-link">Astra 제품군 문서</block>
+  <block id="97d308a1c6bd72fb9d0a536c28e0614c" category="paragraph">NetApp은 Astra 제품군에 대한 제품 문서를 에서 발표하게 되어 기쁘게 생각합니다<block ref="ec342585c0f10bdb58343c5e19d2f78f" category="inline-link-rx"></block>.</block>
+  <block id="29c67482d8f6469f085d3c7e838bcff3" category="paragraph">이 페이지에서는 원하는 제품에 대한 설명서만 볼 수 있도록 필터를 설정할 수 있습니다.</block>
+  <block id="8509a89843a1cc311a72568e21b9f186" category="paragraph">Astra 제품군에 대한 문서는 다음 사이트에서 별도로 확인할 수 있습니다.</block>
+  <block id="1f4fecd353e4238c2e06f3ef57ff2e17" category="inline-image-macro">docs.netapp.com Astra 제품군 문서 사이트를 보여 주는 스크린샷.</block>
+  <block id="381832760c8906b714e74dd9ad500811" category="paragraph"><block ref="381832760c8906b714e74dd9ad500811" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>

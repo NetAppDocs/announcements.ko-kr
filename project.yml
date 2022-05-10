@@ -14,6 +14,8 @@ sidebar:
     url: "/index.html"
   - title: 2021년
     entries:
+    - title: Astra 제품군의 문서
+      url: "/astra-family.html"
     - title: Astra Data Store용 문서
       url: "/astra-data-store.html"
     - title: Astra Trident를 위한 문서
