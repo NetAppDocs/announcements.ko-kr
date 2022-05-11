@@ -100,7 +100,6 @@
   <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">이 향상된 기능을 통해 스크롤할 때 현재 위치를 쉽게 확인하고 페이지의 특정 섹션으로 이동할 수 있습니다.</block>
   <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp Docs 발표</block>
-  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018년 2월에 GitHub 기반 설명서를 시작했습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>보다 빠르게 콘텐츠를 얻고 커뮤니티 참여를 지원하는 것을 목표로 합니다. 지속적으로 새로운 콘텐츠를 추가하고 콘텐츠 경험을 개선하고 있습니다. 이 페이지에서 최신 변경 사항에 대해 알아보십시오.</block>
   <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">최근 발표 내용은 다음과 같습니다.</block>
   <block id="b2659ea7bd2dc02b176860f71e92c02d" category="inline-link-macro">Astra Trident를 위한 문서</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> (2021년 9월 9일)</block>
@@ -277,4 +276,7 @@
   <block id="8509a89843a1cc311a72568e21b9f186" category="paragraph">Astra 제품군에 대한 문서는 다음 사이트에서 별도로 확인할 수 있습니다.</block>
   <block id="1f4fecd353e4238c2e06f3ef57ff2e17" category="inline-image-macro">docs.netapp.com Astra 제품군 문서 사이트를 보여 주는 스크린샷.</block>
   <block id="381832760c8906b714e74dd9ad500811" category="paragraph"><block ref="381832760c8906b714e74dd9ad500811" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cc1e2e4d06b5279262a7484fd9caf5e8" category="paragraph">2018년 2월에 GitHub 기반 설명서를 시작했습니다<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block> 커뮤니티 참여를 지원하는 동시에 보다 빠르게 콘텐츠를 제공하는 것을 목표로 합니다. 지속적으로 새로운 콘텐츠를 추가하고 콘텐츠 경험을 개선하고 있습니다. 이 페이지에서 최신 변경 사항에 대해 알아보십시오.</block>
+  <block id="c4fefb6ca24717726d93c2d157040d85" category="list-text"><block ref="88161053bf68ebf3ccb9af70047493c1" category="inline-link-macro-rx"></block> (2021년 12월 12일)</block>
+  <block id="32f90be6a0e21853e772122e0def388b" category="list-text"><block ref="20a80c78f416319e0e8d17d7e76a9dbb" category="inline-link-macro-rx"></block> (2021년 11월 11일)</block>
 </blocks>
